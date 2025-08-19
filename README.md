@@ -2,7 +2,7 @@
  
 # CiscoPacketTracer
 
-- <b>[Project](LINK)
+- <b>[Configuring Router Password Encryption](https://github.com/TannerHollaway/RouterPasswordEncryptionBehavior)
 
 - <b>[Project](LINK)
 
